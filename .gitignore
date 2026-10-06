@@ -1,0 +1,82 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+pip-log.txt
+pip-delete-this-directory.txt
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.snyk
+.mypy_cache/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+profile_default/
+ipython_config.py
+
+# Kaggle / Data Science specifics
+Dataset/
+dataset/
+data/
+output/
+models/
+*.csv
+*.tsv
+*.xlsx
+*.parquet
+*.h5
+*.pkl
+*.model
+
+# Debug and generated files
+debug*.txt
+debug*.json
+eda_plots/
+
+# Personal / Registration (Do not push to public repo)
+Pondasi Pagi_BuktiPendaftaran/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
