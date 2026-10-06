@@ -2,7 +2,7 @@
 
 ![AuraFresh Concept](https://img.shields.io/badge/AI-Multimodal%20Early%20Fusion-blue) ![Status](https://img.shields.io/badge/Status-Competition-success)
 
-Repository ini merupakan hasil pengerjaan dari tim **Pondasi Pagi** untuk kompetisi **Datathon Universitas Indonesia (UI) 2026**. Penilaian kompetisi ini terbagi menjadi 3 komponen utama, yang seluruhnya didokumentasikan di dalam repository ini:
+Repository ini merupakan hasil pengerjaan dari tim **Pondasi Pagi** untuk kompetisi **Datathon Universitas Indonesia (UI) 2026** (yang diselenggarakan oleh RISTEK Fasilkom UI). Penilaian kompetisi ini terbagi menjadi 3 komponen utama, yang seluruhnya didokumentasikan di dalam repository ini:
 
 1. 📊 **Kaggle Task 1** - penyelesaian *Data Science Task* tahap pertama.
 2. 📈 **Kaggle Task 2** - penyelesaian *Data Science Task* tahap kedua.
